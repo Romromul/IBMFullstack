@@ -43,10 +43,4 @@ We welcome contributions to this repository! If you have suggestions for improve
 This repository and its contents are subject to the terms of the [MIT License](LICENSE.md).
 
 Happy learning, and best of luck with your IBM Full Stack Professional Certificate journey!
-## Authors
-
-- Mitiku Abebe
-- Byron Seilous
-- Byronseilous
-- and my peers
 
